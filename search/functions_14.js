@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['writable_1193',['writable',['../classdaisy_1_1_ring_buffer.html#a1a62e1f4c272334da079f991fae5dd7e',1,'daisy::RingBuffer::writable()'],['../classdaisy_1_1_ring_buffer_3_01_t_00_010_01_4.html#aac579ec7e01ae611737116c42a3d203d',1,'daisy::RingBuffer&lt; T, 0 &gt;::writable()']]],
-  ['write_1194',['Write',['../class_shift_register595.html#a9946a50af186043d5532a9ec10b404b7',1,'ShiftRegister595::Write()'],['../classdaisy_1_1_ring_buffer.html#a769afd376bc682743bc761895ba809eb',1,'daisy::RingBuffer::Write()'],['../classdaisy_1_1_ring_buffer_3_01_t_00_010_01_4.html#a8b9e1f563a4f5b5d2cf1aa034092bf62',1,'daisy::RingBuffer&lt; T, 0 &gt;::Write()'],['../classdaisy_1_1_wav_writer.html#ad1808769a4239080fefabebac461c340',1,'daisy::WavWriter::Write()']]],
-  ['writechar_1195',['WriteChar',['../classdaisy_1_1_oled_display.html#aeca27f2d60a0aeff4b79b88977d20779',1,'daisy::OledDisplay']]],
-  ['writedataataddress_1196',['WriteDataAtAddress',['../classdaisy_1_1_i2_c_handle.html#afb04976cded8bfd1b1427ae15d9458ef',1,'daisy::I2CHandle']]],
-  ['writestring_1197',['WriteString',['../classdaisy_1_1_oled_display.html#a574063322b9c94766b7c8cc6d4cbbab3',1,'daisy::OledDisplay']]],
-  ['writevalue_1198',['WriteValue',['../classdaisy_1_1_dac_handle.html#af5e72141a5501a63e0c4349371cf66f4',1,'daisy::DacHandle']]]
+  ['u82f_0',['u82f',['../group__utility.html#ga197403d1b28c9360306bfd2f5e4809a7',1,'daisy_core.h']]],
+  ['update_1',['Update',['../group__dac.html#ga47a23901c126ae03aa9b7b0196cce163',1,'daisy::MAX11300Driver::Update()'],['../classdaisy_1_1_s_s_d130x_driver.html#a016333b71cda3956f8a47680b7ef6bf7',1,'daisy::SSD130xDriver::Update()'],['../classdaisy_1_1_shift_register4021.html#a74b7a683eaa2893e227e42977041f692',1,'daisy::ShiftRegister4021::Update()'],['../classdaisy_1_1_one_bit_graphics_display.html#a0ea638bde2bff96ee10dec0969a7fc56',1,'daisy::OneBitGraphicsDisplay::Update()'],['../classdaisy_1_1_oled_display.html#aea1796db0121368cff3d760ed7bc8548',1,'daisy::OledDisplay::Update()'],['../classdaisy_1_1_led.html#aeec57ceddd9f685c50446321ba6e1492',1,'daisy::Led::Update()'],['../classdaisy_1_1_rgb_led.html#a6bf7b10c72831aa2d2a7f021822f1899',1,'daisy::RgbLed::Update()']]],
+  ['updateleds_2',['UpdateLeds',['../classdaisy_1_1_daisy_petal.html#ab224cad4e33c800d36ab90184859b006',1,'daisy::DaisyPetal::UpdateLeds()'],['../classdaisy_1_1_daisy_pod.html#a77da50cfdca4810687adde08a4913135',1,'daisy::DaisyPod::UpdateLeds()'],['../classdaisy_1_1_daisy_versio.html#ad25ccf6c7994e35b95d8912a63f00e72',1,'daisy::DaisyVersio::UpdateLeds()']]]
 ];

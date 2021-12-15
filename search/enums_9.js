@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['peripheral_1335',['Peripheral',['../structdaisy_1_1_i2_c_handle_1_1_config.html#ad59ff761df0f73062c2e5602fb67e9d3',1,'daisy::I2CHandle::Config::Peripheral()'],['../structdaisy_1_1_sai_handle_1_1_config.html#a68789209ff997e6ca653db010594959b',1,'daisy::SaiHandle::Config::Peripheral()'],['../structdaisy_1_1_timer_handle_1_1_config.html#a907160c00bf0cad7ec645368bd4f5bca',1,'daisy::TimerHandle::Config::Peripheral()']]],
-  ['pins_1336',['Pins',['../class_shift_register595.html#a2e0140c5d6cac8821d558b2683f7a134',1,'ShiftRegister595::Pins()'],['../classdaisy_1_1_oled_display.html#ac1e198fa97a58fbe1ff24a06c621c2cf',1,'daisy::OledDisplay::Pins()']]],
-  ['polarity_1337',['Polarity',['../classdaisy_1_1_switch.html#aef37136dd1b4cd077ef82a0f62bcfa3d',1,'daisy::Switch']]],
-  ['presetcolor_1338',['PresetColor',['../classdaisy_1_1_color.html#af93d31d5fc63705c228bf9da407c9a40',1,'daisy::Color']]],
-  ['pull_1339',['Pull',['../classdaisy_1_1_switch.html#aa6c26cb923638a248a1d8d3cb1755e51',1,'daisy::Switch']]]
+  ['mapping_0',['Mapping',['../classdaisy_1_1_mapped_float_value.html#a641cdb1b535573e06e3d4f7048562437',1,'daisy::MappedFloatValue']]],
+  ['media_1',['Media',['../structdaisy_1_1_fat_f_s_interface_1_1_config.html#aa749d7b2739147217cfbc38c99462334',1,'daisy::FatFSInterface::Config']]],
+  ['memoryregion_2',['MemoryRegion',['../classdaisy_1_1_system.html#aa40158e5b80587e80153b16ae22c6669',1,'daisy::System']]],
+  ['midimessagetype_3',['MidiMessageType',['../namespacedaisy.html#aaf09bb687034c8776ca0c68ed3ed4179',1,'daisy']]],
+  ['mode_4',['Mode',['../classdaisy_1_1_dac_handle.html#af1ab441190983a26ed15a26b77028082',1,'daisy::DacHandle::Mode()'],['../classdaisy_1_1_g_p_i_o.html#af853f20a7e4f4d4f337c30fe1d6f1827',1,'daisy::GPIO::Mode()'],['../structdaisy_1_1_i2_c_handle_1_1_config.html#a0732725b29fd620342cc5779911faf99',1,'daisy::I2CHandle::Config::Mode()'],['../structdaisy_1_1_q_s_p_i_handle_1_1_config.html#a9641ed459b3ef3baca74ad0d49d78a83',1,'daisy::QSPIHandle::Config::Mode()']]],
+  ['muxpin_5',['MuxPin',['../structdaisy_1_1_adc_channel_config.html#af601e66da7eb60721792861fc91f2c83',1,'daisy::AdcChannelConfig']]]
 ];

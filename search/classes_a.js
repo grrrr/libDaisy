@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['oleddisplay_934',['OledDisplay',['../classdaisy_1_1_oled_display.html',1,'daisy']]]
+  ['noteoffevent_0',['NoteOffEvent',['../structdaisy_1_1_note_off_event.html',1,'daisy']]],
+  ['noteonevent_1',['NoteOnEvent',['../structdaisy_1_1_note_on_event.html',1,'daisy']]]
 ];

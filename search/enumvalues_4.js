@@ -1,12 +1,5 @@
 var searchData=
 [
-  ['fast_1409',['FAST',['../classdaisy_1_1_sdmmc_handler.html#a78a654b5e915c05224fb64f0dfbe6bceadca6e617f6fb54033deb311e7e7c93cc',1,'daisy::SdmmcHandler']]],
-  ['footswitch_5fled_5f1_1410',['FOOTSWITCH_LED_1',['../classdaisy_1_1_daisy_petal.html#ad833e85c076a9fc4c3ad16cb8f09b06da9998ede7b134a8aa58a7950fa0376a93',1,'daisy::DaisyPetal']]],
-  ['footswitch_5fled_5f2_1411',['FOOTSWITCH_LED_2',['../classdaisy_1_1_daisy_petal.html#ad833e85c076a9fc4c3ad16cb8f09b06dab6791167fd4edbc562b7036887b1d22c',1,'daisy::DaisyPetal']]],
-  ['footswitch_5fled_5f3_1412',['FOOTSWITCH_LED_3',['../classdaisy_1_1_daisy_petal.html#ad833e85c076a9fc4c3ad16cb8f09b06dadf2bb51be67f76a0274832195e683c84',1,'daisy::DaisyPetal']]],
-  ['footswitch_5fled_5f4_1413',['FOOTSWITCH_LED_4',['../classdaisy_1_1_daisy_petal.html#ad833e85c076a9fc4c3ad16cb8f09b06da022fb2467f37f92677503a481d9300a6',1,'daisy::DaisyPetal']]],
-  ['footswitch_5fled_5flast_1414',['FOOTSWITCH_LED_LAST',['../classdaisy_1_1_daisy_petal.html#ad833e85c076a9fc4c3ad16cb8f09b06dad18fc6823313df604a7825d42bec02b9',1,'daisy::DaisyPetal']]],
-  ['fs_5fboth_1415',['FS_BOTH',['../class_usb_handle.html#a782f2982a91520188f2be5a80c9febb4a7926eaf0841374d9b4afa7965a75127b',1,'UsbHandle']]],
-  ['fs_5fexternal_1416',['FS_EXTERNAL',['../class_usb_handle.html#a782f2982a91520188f2be5a80c9febb4a26ab786f68f31edaf520641878d210b4',1,'UsbHandle']]],
-  ['fs_5finternal_1417',['FS_INTERNAL',['../class_usb_handle.html#a782f2982a91520188f2be5a80c9febb4afa4206af38c6c3fcb6a7c33d7cf6b665',1,'UsbHandle']]]
+  ['err_0',['ERR',['../group__dac.html#gga99e6cb4ca339f27351327340bc40f0d9acd22bad976363fdd1bfbf6759fede482',1,'daisy::BlockingSpiTransport::ERR()'],['../group__dac.html#ggacd2952c79b8b9a8aa50158af12569b1cacd22bad976363fdd1bfbf6759fede482',1,'daisy::MAX11300Driver::ERR()'],['../class_sdram_handle.html#ab6b59b2a4b1abdec7369ffcdceac73f7acd22bad976363fdd1bfbf6759fede482',1,'SdramHandle::ERR()'],['../classdaisy_1_1_i2_c_handle.html#a4896eede457dea6ed2ed68d9b06e8e16acd22bad976363fdd1bfbf6759fede482',1,'daisy::I2CHandle::ERR()'],['../classdaisy_1_1_spi_handle.html#acee8aad7e8008a2dbdfc8f260712bab7acd22bad976363fdd1bfbf6759fede482',1,'daisy::SpiHandle::ERR()'],['../classdaisy_1_1_uart_handler.html#ac45c7ac82e6f0328b4e7b03fd12e7237acd22bad976363fdd1bfbf6759fede482',1,'daisy::UartHandler::ERR()']]],
+  ['exponential_1',['EXPONENTIAL',['../classdaisy_1_1_parameter.html#a2fcb1b7095721f0de77594aabb9594daac8edf4df75c87b5f6a76181e4466aee3',1,'daisy::Parameter']]]
 ];

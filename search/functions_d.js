@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['open_1104',['Open',['../classdaisy_1_1_wav_player.html#ab125d0c6fb01b45443b57df96255efb9',1,'daisy::WavPlayer']]],
-  ['openfile_1105',['OpenFile',['../classdaisy_1_1_wav_writer.html#a9c03052fee69006c6f021391ecc93f20',1,'daisy::WavWriter']]],
-  ['overwrite_1106',['Overwrite',['../classdaisy_1_1_ring_buffer.html#a54025b155bbdc72c318838638851c1ba',1,'daisy::RingBuffer::Overwrite(T v)'],['../classdaisy_1_1_ring_buffer.html#a1cd4bb607dbd2137b4e808e68eccc744',1,'daisy::RingBuffer::Overwrite(const T *source, size_t num_elements)'],['../classdaisy_1_1_ring_buffer_3_01_t_00_010_01_4.html#af9fa6ab897b4df666718664666557c9c',1,'daisy::RingBuffer&lt; T, 0 &gt;::Overwrite(T v)'],['../classdaisy_1_1_ring_buffer_3_01_t_00_010_01_4.html#a80d8b5275d198f73b9a27bfa852229fb',1,'daisy::RingBuffer&lt; T, 0 &gt;::Overwrite(const T *source, size_t num_elements)']]]
+  ['mappedfloatvalue_0',['MappedFloatValue',['../classdaisy_1_1_mapped_float_value.html#a6e57b7b8f58aa299b0cfa007ab1a39be',1,'daisy::MappedFloatValue']]],
+  ['mappedintvalue_1',['MappedIntValue',['../classdaisy_1_1_mapped_int_value.html#aa3299c3c51c8db12f86efaf5edc06196',1,'daisy::MappedIntValue']]],
+  ['mappedstringlistvalue_2',['MappedStringListValue',['../classdaisy_1_1_mapped_string_list_value.html#a52c9b15b2f8c0a917969a744f028efa1',1,'daisy::MappedStringListValue']]],
+  ['modifyvalue_3',['ModifyValue',['../classdaisy_1_1_abstract_menu_1_1_custom_item.html#a5e3041b957344369e785d53b0b8def40',1,'daisy::AbstractMenu::CustomItem::ModifyValue(int16_t increments, uint16_t stepsPerRevolution, bool isFunctionButtonPressed)'],['../classdaisy_1_1_abstract_menu_1_1_custom_item.html#a73315232a9ac1809623de3bd4c57aca6',1,'daisy::AbstractMenu::CustomItem::ModifyValue(float valueSliderPosition0To1, bool isFunctionButtonPressed)']]],
+  ['mute_4',['Mute',['../classdaisy_1_1_u_i.html#a0ce9a7071de333627b2b2329b01fb45b',1,'daisy::UI']]]
 ];

@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['lcd_0',['Lcd',['../group__lcd.html',1,'']]],
-  ['led_1',['LED',['../group__led.html',1,'']]],
-  ['libdaisy_2',['LIBDAISY',['../group__libdaisy.html',1,'']]]
+  ['human_5finterface_0',['HUMAN_INTERFACE',['../group__human__interface.html',1,'']]]
 ];
